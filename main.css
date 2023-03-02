@@ -64,9 +64,10 @@ h3 {
   font-style: italic;
 }
 
-p {
+p, address {
   margin: 2rem 2rem;
   line-height: 2rem;
   font-size: 16px;
   font-size: var(--small-text-size);
+  font-style: normal;
 }
